@@ -335,6 +335,19 @@ The `find` command is used to search for files in a directory hierarchy.
 find <directory> -name <file_name>
 ```
 
-**Output:**
+## output:
+
+Register number : 212222100055
+
+<img width="984" height="854" alt="image" src="https://github.com/user-attachments/assets/dd961f60-e929-48a6-9d82-ab35a481ce31" />
+
+<img width="1453" height="951" alt="image" src="https://github.com/user-attachments/assets/a7a113e3-a606-476c-ada0-8d4719b0ce54" />
+
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/0bc1290b-4061-42c0-9404-9ed3b79a932c" />
+
+<img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/e194916e-3cd7-43ba-a958-269e942ae052" />
+
 
 ## Result
+
+Thus, the execution of various Linux commands is executed successfully using VMware workstation.
